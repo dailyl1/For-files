@@ -1,1 +1,1 @@
-This is my Python code for Sir Ronal Fisher's Iris data analyzed by an ANN. If you want to run it, copy and paste into IDLE. 
+This is my Python code for Sir Ronal Fisher's Iris data analyzed by an ANN. If you want to run it, copy and paste into IDLE. Remember, especially if you run this locally, you might have to install python libraries (perhaps at the command prompt). 
